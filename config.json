@@ -1,9 +1,9 @@
 {
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
+  "TOKEN": "ODI1NzA5MTAwNTU3OTI2NDgx.YGB3hg.RB5NLeH_Sv5RsRvO6RsNvjje-vA",
+  "YOUTUBE_API_KEY": "AIzaSyBpBDT3X1mC-7jyrBtscVkGUIdvnDevxD4",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "ad!",
+  "PREFIX": "-",
   "LOCALE": "en",
   "support_server": "",
   "PRUNING": false,
